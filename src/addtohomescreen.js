@@ -664,8 +664,7 @@
 
 			this._canPrompt = false;
 
-			if ( _instance.options.customCriteria !== null ||
-				_instance.options.customCriteria !== undefined ) {
+			if ( _instance.options.customCriteria) {
 
 				var passCustom = false;
 
