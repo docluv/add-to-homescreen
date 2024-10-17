@@ -1,3 +1,24 @@
+/* Add to Homescreen v4.0.0 ~ (c) 2019 Chris Love ~ @license: https://love2dev.com/pwa/add-to-homescreen/ */
+/*
+Check out these PWA Resources:
+
+https://love2dev.com/pwa/pwa-starter/
+https://pwastarter.love2dev.com/
+https://love2dev.com/blog/beforeinstallprompt/
+
+*/
+
+/*
+	   _   _ _____     _____
+ ___ _| |_| |_   _|___|  |  |___ _____ ___ ___ ___ ___ ___ ___ ___
+| .'| . | . | | | | . |     | . |     | -_|_ -|  _|  _| -_| -_|   |
+|__,|___|___| |_| |___|__|__|___|_|_|_|___|___|___|_| |___|___|_|_|
+	by Matteo Spinelli ~ http://cubiq.org <-- No longer there :<
+	Upgraded for PWA Support by Chris Love ~ https://love2dev.com/
+	USE PWA Starter to scaffold your core PWA files ~ https://pwastarter.love2dev.com/
+*/
+
+
 (function (window, document, undefined) {
 	"use strict";
 
